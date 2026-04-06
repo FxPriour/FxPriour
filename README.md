@@ -5,9 +5,9 @@
 
 I teach English at French universities and professional training organisations (Business English, ESP — finance, logistics, IT, healthcare). I've been doing this since 2013, with a previous life as a Research Associate at INSEAD Fontainebleau, where English was simply the air we breathed.
 
-*J'enseigne l'anglais dans des universités françaises et des organismes de formation professionnelle (Business English, anglais de spécialité — finance, logistique, IT, santé). Je traduis aussi des livres d'échecs — plus de 40 à ce jour — et j'écris sur les échecs dans [Chess Contains Multitudes](https://chessmultitudes.substack.com), une newsletter Substack en anglais où j'essaie de rendre le jeu le plus suranalysé du monde encore un peu plus suranalysé, mais avec humour.*
+I also translate chess books — over 40 of them — and write about chess at [Chess Contains Multitudes](https://chessmultitudes.substack.com), a newsletter where I try to make the world's most overthought game even more overthought, but funnier.
 
-I also translate chess books — over 40 of them — and write about chess at [Chess Contains Multitudes](https://chessmultitudes.substack.com), a Substack newsletter where I try to make the world's most overthought game even more overthought, but funnier.
+*J'enseigne l'anglais dans des universités françaises et des organismes de formation professionnelle (Business English, anglais de spécialité — finance, logistique, IT, santé). Je traduis aussi des livres d'échecs — plus de 40 à ce jour — et j'écris sur les échecs dans [Chess Contains Multitudes](https://chessmultitudes.substack.com), une newsletter en anglais où j'essaie de rendre le jeu le plus suranalysé du monde encore un peu plus suranalysé, mais avec humour.*
 
 ---
 
@@ -24,19 +24,18 @@ Interactive listening comprehension activities for French learners of English (A
 | 🔭 The Big Bang Theory | American sitcom · Sitcom américaine | A2–B1 |
 | 🦇 The Byronic Hero | Literature & cultural history · Littérature et histoire culturelle | A2–B1 |
 
+*More activities added regularly · Nouvelles activités ajoutées régulièrement*
+
 ---
 
 ## ♟️ Chess projects · Projets échecs
 
 ### [Chess Dashboard](https://github.com/FxPriour/Chess-Dashboard)
+🔗 **[fxpriour.github.io/Chess-Dashboard](https://fxpriour.github.io/Chess-Dashboard/)**
 
-A live chess broadcast tool built with the Lichess API, Stockfish.js, chess.js and chessboard.js.
+A live chess broadcast tool built with the Lichess API, Stockfish.js, chess.js and chessboard.js. The idea: the engine tells you who's winning — the dashboard tells you how *hard* it is to be human in that position.
 
-*Un outil de diffusion de parties d'échecs en direct, développé avec l'API Lichess, Stockfish.js, chess.js et chessboard.js.*
-
-The idea: the engine tells you who's winning — the dashboard tells you how *hard* it is to be human in that position. Complexity metrics, position tension, distance from theory.
-
-*L'idée : le moteur vous dit qui gagne — le tableau de bord vous dit à quel point la position est difficile à jouer pour un humain. Complexité, tension, distance par rapport à la théorie.*
+*Un outil de diffusion de parties d'échecs en direct. L'idée : le moteur vous dit qui gagne — le tableau de bord vous dit à quel point la position est difficile à jouer pour un humain.*
 
 ⚠️ Work in progress · *En cours de développement*
 
