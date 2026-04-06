@@ -5,9 +5,9 @@
 
 I teach English at French universities and professional training organisations (Business English, ESP — finance, logistics, IT, healthcare). I've been doing this since 2013, with a previous life as a Research Associate at INSEAD Fontainebleau, where English was simply the air we breathed.
 
-*J'enseigne l'anglais dans des universités françaises et des organismes de formation professionnelle (Business English, anglais de spécialité — finance, logistique, IT, santé). Je traduis aussi des livres d'échecs — plus de 40 à ce jour — et j'écris sur les échecs dans [Chess Contains Multitudes](https://chessmultitudes.substack.com), une newsletter en anglais où j'essaie de rendre le jeu le plus suranalysé du monde encore un peu plus suranalysé, mais avec humour.*
+*J'enseigne l'anglais dans des universités françaises et des organismes de formation professionnelle (Business English, anglais de spécialité — finance, logistique, IT, santé). Je traduis aussi des livres d'échecs — plus de 40 à ce jour — et j'écris sur les échecs dans [Chess Contains Multitudes](https://chessmultitudes.substack.com), une newsletter Substack en anglais où j'essaie de rendre le jeu le plus suranalysé du monde encore un peu plus suranalysé, mais avec humour.*
 
-I also translate chess books — over 40 of them — and write about chess at [Chess Contains Multitudes](https://chessmultitudes.substack.com), a newsletter where I try to make the world's most overthought game even more overthought, but funnier.
+I also translate chess books — over 40 of them — and write about chess at [Chess Contains Multitudes](https://chessmultitudes.substack.com), a Substack newsletter where I try to make the world's most overthought game even more overthought, but funnier.
 
 ---
 
